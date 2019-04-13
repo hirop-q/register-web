@@ -1,0 +1,32 @@
+body{background-color: #36393f;}
+.behind{
+	border: 2px solid #212226;
+	border-radius: 1%; /*Coloquei 1% por puro autismo q -p */
+	background-color: #212226;
+	box-shadow: 0px 0px 15px;
+	height: 200px;
+	width: 35%;
+	position: relative;
+	top: 120px;
+}
+.inputs input{
+	font-family: Arial;
+	font-size: 98%;
+	color: white;
+	display: block;
+	height: 30px;
+	width: 15%;
+	position: relative;
+	margin-top: 20px;
+	top: -74px;
+	background-color: #212226;
+	border: 2px solid #36393f;
+	border-radius: 5%;
+}
+.inputs input:hover{transition: 1s; border-color: black;}
+
+#submit{
+	top: 38px;
+	height: 45px;
+	width: 25%;
+}
