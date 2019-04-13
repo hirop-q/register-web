@@ -26,7 +26,8 @@ body{background-color: #36393f;}
 .inputs input:hover{transition: 1s; border-color: black;}
 
 #submit{
-	top: 38px;
+	top: 15px;
 	height: 45px;
 	width: 25%;
 }
+#submit:hover{cursor: pointer;}
